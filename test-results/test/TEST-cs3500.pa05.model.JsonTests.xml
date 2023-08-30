@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cs3500.pa05.model.JsonTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-22T04:36:38" hostname="MacBook-Air-2.local" time="0.003">
-  <properties/>
-  <testcase name="testJson()" classname="cs3500.pa05.model.JsonTests" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
