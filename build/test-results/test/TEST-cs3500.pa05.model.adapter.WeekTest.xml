@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs3500.pa05.model.adapter.WeekTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-06-22T04:36:38" hostname="MacBook-Air-2.local" time="0.009">
+  <properties/>
+  <testcase name="testgetTasks()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.001"/>
+  <testcase name="testGetStart()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testGetTheme()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testAddTask()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testAddEvent()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testGetMaxe()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testGetMaxt()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testGetEvents()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testGetInt()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="setStart()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testSetMaxe()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.001"/>
+  <testcase name="testSetMaxt()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="getQandN()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.001"/>
+  <testcase name="testSetQandN()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.0"/>
+  <testcase name="testSetTheme()" classname="cs3500.pa05.model.adapter.WeekTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

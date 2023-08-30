@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs3500.pa05.model.AbstTaskEventTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-06-22T04:36:38" hostname="MacBook-Air-2.local" time="0.039">
+  <properties/>
+  <testcase name="getDayOfWeek()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.017"/>
+  <testcase name="testGetDuration()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.001"/>
+  <testcase name="getDone()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.001"/>
+  <testcase name="getLink()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.0"/>
+  <testcase name="getName()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.0"/>
+  <testcase name="getExtraDetails()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.007"/>
+  <testcase name="testGetStartTimeString()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.001"/>
+  <testcase name="getDescription()" classname="cs3500.pa05.model.AbstTaskEventTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
